@@ -8,7 +8,7 @@ const menuItems = [
   { path: "/leadership", label: "임원 소개개 " },
   { path: "/board", label: "업무 게시판" },
   { path: "/our-services", label: "제공 기술" },
-  { path: "/contract", label: "문의하기" },
+  { path: "/contact", label: "문의하기" },
 ];
 
 const MenuItem = ({ path, label, onClick }) => (

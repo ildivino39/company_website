@@ -44,7 +44,7 @@ function Footer() {
               </li>
               <li>
                 <Link
-                  to="/leadship"
+                  to="/leadership"
                   onClick={scrollToTop}
                   className="hover:text-white transition-colors"
                 >
