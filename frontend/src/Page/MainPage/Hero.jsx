@@ -21,7 +21,7 @@ const Hero = () => {
               <button className="px-8 py-4 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors duration-300 text-lg font-semibold shadow-lg hover:shadow-xl">
                 상담 신청하기
               </button>
-              <button className="px-8 py-4 bg-white text-blue-600 rounded-xl border-2, border-blue-600, hover:bg-blue-50 transition-colors duration-300 text-lg font-semibold">
+              <button className="px-8 py-4 bg-slate-200 text-blue-600 rounded-xl border-2, border-blue-600, hover:bg-blue-100 transition-colors duration-300 text-lg font-semibold">
                 더 알아보기
               </button>
             </div>
